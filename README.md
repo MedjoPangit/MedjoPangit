@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedjoPangit
 - 👀 Good morning how are you?  I'm Dr. Worm- I’m interested in things
 - 🌱 I’m currently learning.  It's a process.
-- 💞️ I’m looking to collaborate on and on and on.
+- 💞️ I’m looking to collaborate on how to save the world.
 - 📫 How to reach me ... telekenisis.  Yeah, that.
 
 - But in all seriousness, I'm just an IT technician, primarily focused on network management, but I branch out in various
