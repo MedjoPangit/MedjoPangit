@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on how to save the world.
 - 📫 How to reach me ... telekenisis.  Yeah, that.
 
-- But in all seriousness, I'm just an IT technician, primarily focused on network management, but I branch out in various
-- derivatives, like PHP/HTML, Bash scripting, even electrical wiring.
+- But in all seriousness, I'm just an IT technician, primarily focused on network management, but I branch out in various derivatives, like PHP/HTML, Bash scripting, even electrical wiring.
 
 <!---
 MedjoPangit/MedjoPangit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
